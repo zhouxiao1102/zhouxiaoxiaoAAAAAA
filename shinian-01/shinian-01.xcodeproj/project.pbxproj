@@ -14,6 +14,7 @@
 		DADD13061C9A3EB6007D7D7E /* shinian_01.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = DADD13041C9A3EB6007D7D7E /* shinian_01.xcdatamodeld */; };
 		DADD13081C9A3EB6007D7D7E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DADD13071C9A3EB6007D7D7E /* Assets.xcassets */; };
 		DADD130B1C9A3EB6007D7D7E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DADD13091C9A3EB6007D7D7E /* LaunchScreen.storyboard */; };
+		DADD13141C9A44E0007D7D7E /* TableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DADD13131C9A44E0007D7D7E /* TableViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,8 @@
 		DADD13071C9A3EB6007D7D7E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DADD130A1C9A3EB6007D7D7E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DADD130C1C9A3EB6007D7D7E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DADD13121C9A44E0007D7D7E /* TableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TableViewController.h; sourceTree = "<group>"; };
+		DADD13131C9A44E0007D7D7E /* TableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TableViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +67,8 @@
 				DADD12FC1C9A3EB6007D7D7E /* AppDelegate.m */,
 				DADD12FE1C9A3EB6007D7D7E /* ViewController.h */,
 				DADD12FF1C9A3EB6007D7D7E /* ViewController.m */,
+				DADD13121C9A44E0007D7D7E /* TableViewController.h */,
+				DADD13131C9A44E0007D7D7E /* TableViewController.m */,
 				DADD13011C9A3EB6007D7D7E /* Main.storyboard */,
 				DADD13071C9A3EB6007D7D7E /* Assets.xcassets */,
 				DADD13091C9A3EB6007D7D7E /* LaunchScreen.storyboard */,
@@ -156,6 +161,7 @@
 				DADD13001C9A3EB6007D7D7E /* ViewController.m in Sources */,
 				DADD13061C9A3EB6007D7D7E /* shinian_01.xcdatamodeld in Sources */,
 				DADD12FD1C9A3EB6007D7D7E /* AppDelegate.m in Sources */,
+				DADD13141C9A44E0007D7D7E /* TableViewController.m in Sources */,
 				DADD12FA1C9A3EB6007D7D7E /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
